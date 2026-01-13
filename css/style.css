@@ -142,6 +142,15 @@ body {
     padding: 0.8rem 1.5rem;
     border-radius: 8px;
 }
+.button{
+background-color: black;
+
+
+
+
+
+}
+
 @media (max-width: 768px) {
     nav {
         flex-direction: column;
